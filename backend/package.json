@@ -1,0 +1,23 @@
+{
+  "name": "prompt-to-website-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.29.7",
+    "@babel/parser": "^7.29.9",
+    "@babel/standalone": "^7.29.10",
+    "@google/genai": "^2.29.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.7",
+    "esbuild": "^0.28.2",
+    "express": "^4.22.3",
+    "framer-motion": "^14.1.0",
+    "groq-sdk": "^1.6.0",
+    "lucide-react": "^1.56.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
